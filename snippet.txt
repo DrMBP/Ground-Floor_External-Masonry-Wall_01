@@ -1,0 +1,22 @@
+<model-viewer src="Ground Floor-External Masonry Wall_01.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="32.7deg 74.66deg 4.381m" field-of-view="30deg">
+    <button class="Hotspot" slot="hotspot-1" data-position="1.4060396131265267m 0.5611912229353492m 2.519484620933099e-11m" data-normal="-5.600437277905104e-16m -4.489559593312267e-11m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Hardcore</div>
+    </button><button class="Hotspot" slot="hotspot-2" data-position="0.9560155151551755m 0.6587604062815389m 2.957450030573879e-11m" data-normal="-5.5717882688929685e-16m -4.493847108129313e-11m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Sand Blinding</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-position="1.6637360539652832m 0.6728274977410373m -0.3312913275335276m" data-normal="1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">DPM</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="1.6637360299266826m 0.7418041149709216m -0.7055813610037314m" data-normal="1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Concrete Slab</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="1.6637360539652828m 0.8914564084076186m -0.8851643559172786m" data-normal="1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Rigid Insulation</div>
+    </button><button class="Hotspot" slot="hotspot-6" data-position="1.1734588402021628m 0.9739220338159642m -1.6188214657653077e-9m" data-normal="0m -4.4896641959724086e-11m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">AVCL</div>
+    </button><button class="Hotspot" slot="hotspot-7" data-position="1.1660054508755806m 1.0500000493470978m -0.6449563396443644m" data-normal="0m 1m 4.4896641959724086e-11m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Screed</div>
+    </button><button class="Hotspot" slot="hotspot-8" data-position="0.5623583130491134m 1.0105042580803887m -1.6171794285646524e-9m" data-normal="0m -4.4896641959724086e-11m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Screed Edge Insulation</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>
